@@ -12,17 +12,17 @@ Database:
 -Have the basic CRUD operations.
 -Store all the information.
 
-Inteface:
+Inteface:  
 -Interact with user
 
-Control System:
+Control System:  
 -Make sure the rules of enrollment are applied
 -Make calculations
 
-###How to start
-Open console in the application directory, use your C compiler (i used gcc) and write the following:
-gcc main.c interface.c basedados.c sistemacontrolo.c
-./a.out
+###How to start  
+Open console in the application directory, use your C compiler (i used gcc) and write the following:  
+gcc main.c interface.c basedados.c sistemacontrolo.c  
+./a.out  
 
 ###Tech && Methodologies
 C, Visual Studio Code, Linux;
