@@ -2,7 +2,7 @@
 2022  
 Console program that controls students information.
 
-###The idea  
+### The idea  
 I wanted to learn C, and since i'm currently enrolled in a C course, i thought about making a program about student management.
 
 ###The Development  
@@ -19,10 +19,10 @@ Control System:
 -Make sure the rules of enrollment are applied  
 -Make calculations  
 
-###How to start  
+### How to start  
 Open console in the application directory, use your C compiler (i used gcc) and write the following:  
 gcc main.c interface.c basedados.c sistemacontrolo.c  
 ./a.out  
 
-###Tech && Methodologies
+### Tech && Methodologies
 C, Visual Studio Code, Linux;
